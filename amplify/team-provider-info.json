@@ -38,6 +38,9 @@
           "appId": "d2w3dqek6xxsti",
           "type": "manual"
         }
+      },
+      "auth": {
+        "deployserverlessreac4151ab6a": {}
       }
     }
   }

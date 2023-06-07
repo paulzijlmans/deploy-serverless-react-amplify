@@ -12,4 +12,8 @@
 --> 'Hosting with Amplify Console'
 --> 'Manual deployment'
 
-```amplify publish```
+```amplify publish``` (frontend + backend)
+
+```amplify push``` (backend only)
+
+```amplify add auth```
